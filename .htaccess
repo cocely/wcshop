@@ -1,0 +1,13 @@
+Options -Indexes
+
+ErrorDocument 404 /wcshop/error.html
+ErrorDocument 400 /wcshop/error.html
+ErrorDocument 401 /wcshop/error.html
+ErrorDocument 403 /wcshop/error.html
+ErrorDocument 405 /wcshop/error.html
+ErrorDocument 406 /wcshop/error.html
+ErrorDocument 409 /wcshop/error.html
+ErrorDocument 413 /wcshop/error.html
+ErrorDocument 414 /wcshop/error.html
+ErrorDocument 500 /wcshop/error.html
+ErrorDocument 501 /wcshop/error.html

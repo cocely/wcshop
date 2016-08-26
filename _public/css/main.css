@@ -1,0 +1,54 @@
+* {
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+}
+
+body > header {
+    width: 100%;
+}
+
+body > header > section {
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.box {
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+main > section > article {
+    margin-bottom: 25px;
+}
+
+main > section > article > span {
+    display: table;
+    margin: 5px auto;
+}
+
+main > section > table {
+    margin: 0 auto;
+}
+
+main > section > table > tbody > tr > td {
+    padding: 5px;
+}
+
+#message {
+    font-style: italic;    
+}
+
+footer {
+    margin-top: 100px;
+    border-top: 1px solid #ddd;
+}
+
+footer > p:first-child {
+    float: right;
+}
+
+footer > p:last-child {
+    float: left;
+}
